@@ -38,7 +38,7 @@ const PHOTOS = [
     
   { src: "img/madamefigaro/06/05.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR ARTIST</span>',  line1: "MADAME FIGARO", line2: "Thiemo Sander", group: "MADAME FIGARO" }, 
   { src: "img/madamefigaro/06/01.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR ARTIST</span>',  line1: "MADAME FIGARO", line2: "Thiemo Sander", group: "MADAME FIGARO" }, 
-  { src: "img/madamefigaro/06/0.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR ARTIST</span>',  line1: "MADAME FIGARO", line2: "Thiemo Sander", group: "MADAME FIGARO" }, 
+  { src: "img/madamefigaro/06/04.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR ARTIST</span>',  line1: "MADAME FIGARO", line2: "Thiemo Sander", group: "MADAME FIGARO" }, 
 
 
   { src: "img/behindtheblinds/01/03.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR ARTIST</span>',  line1: "Behind The Blinds", line2: "Emmanuel Giraud", group: "Behind The Blinds" }, 
