@@ -45,9 +45,9 @@ const PHOTOS = [
   { src: "img/behindtheblinds/01/05.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "Behind The Blinds", line2: "Emmanuel Giraud", group: "Behind The Blinds" }, 
   { src: "img/behindtheblinds/01/04.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "Behind The Blinds", line2: "Emmanuel Giraud", group: "Behind The Blinds" }, 
 
-  { src: "img/dedicate/01/04.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "DEDICATE", line2: "Nicolas Valois", group: "DEDICATE" }, 
-  { src: "img/dedicate/01/06.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "DEDICATE", line2: "Nicolas Valois", group: "DEDICATE" }, 
-  { src: "img/dedicate/01/03.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "DEDICATE", line2: "Nicolas Valois", group: "DEDICATE" }, 
+  { src: "img/dedicate/01/04.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "dedicate", line2: "Nicolas Valois", group: "DEDICATE" }, 
+  { src: "img/dedicate/01/06.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "dedicate", line2: "Nicolas Valois", group: "DEDICATE" }, 
+  { src: "img/dedicate/01/03.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "dedicate", line2: "Nicolas Valois", group: "DEDICATE" }, 
 
 
   { src: "img/numerohomme/01/01.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "Numéro Homme", line2: "Arash Khaksari", group: "Numero Homme" }, 
