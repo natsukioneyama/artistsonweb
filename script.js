@@ -101,9 +101,9 @@ const PHOTOS = [
   { src: "img/vogueukraine/01/03.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE", line2: "Lukasz Pukowiec", group: "VOGUE UKRAINE" }, 
 
   
-  { src: "img/vogueukrainecartier/01/01.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE X Cartier", line2: "Stéphanie Volpato", group: "VOGUE UKRAINE" }, 
-  { src: "img/vogueukrainecartier/01/02.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE X Cartier", line2: "Stéphanie Volpato", group: "VOGUE UKRAINE" }, 
-  { src: "img/vogueukrainecartier/01/03.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE X Cartier", line2: "Stéphanie Volpato", group: "VOGUE UKRAINE" }, 
+  { src: "img/vogueukrainecartier/01/01.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE X CARTIER", line2: "Stéphanie Volpato", group: "VOGUE UKRAINE" }, 
+  { src: "img/vogueukrainecartier/01/02.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE X CARTIER", line2: "Stéphanie Volpato", group: "VOGUE UKRAINE" }, 
+  { src: "img/vogueukrainecartier/01/03.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "VOGUE UKRAINE X CARTIER", line2: "Stéphanie Volpato", group: "VOGUE UKRAINE" }, 
 
   { src: "img/numerochina/01/01.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "Numéro China", line2: "David Vasilijevic", group: "Numéro China" }, 
   { src: "img/numerochina/01/02.webp", w: 1600, h: 1100, title: 'KAZUKO KITAOKA<br><span class="role">HAIR STYLIST</span>',  line1: "Numéro China", line2: "David Vasilijevic", group: "Numéro China" }, 
